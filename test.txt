@@ -3,8 +3,3 @@
 Phương pháp nghiên cứu IT : Lớp 12523151 2 ->  Vi Bảo Ngọc; Phan Thị Hải Hồng : Thứ 3 -> tiết 7-8
 Kinh tế công nghiệp: Lớp 21756151 ->  Trịnh Vũ Minh; Phạm Thị Hoài Thu ->  thứ 4 -> tiết 8-9 
 Tiếng anh ......
-// setting start 
-1
-2
-3
-// setting end
